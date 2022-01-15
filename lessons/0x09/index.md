@@ -1,18 +1,31 @@
-# 0x09 - Project Work
+# Final Project
 
-## Agenda
+In teams of 3 people, you will create 1 new feature for [SparkleHub][sparklehub].
+Each team will choose who will be the [Product Manager][product-manager],
+[Designer][designer], and [Engineer][engineer].
 
-1. [Announcements](#announcements)
-1. [Final Project work](../0x0A/)
-1. [Rosemary Sanchez](#rosemary-sanchez)
-1. [Heart, Fart, Shopping Cart](https://docs.google.com/document/d/1B7PpuevDeee2ygKKrPIOC4iqzKjuWSUDIjt1qw0ulrM/edit)
+* The Product Manager creates a [User Story][user-story] submitted as a [new issue][issue].
+* The Designer creates a [Wireframe][wireframe] of the feature submitted as an attachment in the issue.
+* The Engineer creates a [Task breakdown][tasks] of the work to be done to build the feature included in the issue.
+* The team submits a [Pull Request][pull-request] to the [SparkleHub][sparklehub] repo with working code.
 
-## Announcements
+Each member of the team will present how they contributed to the feature that they worked on together.
 
-* Next week is the project show case from 11:00-13:00 MST
+The following video provides an example of the full process.
 
-## Rosemary Sanchez
+{% include youtube.html youtube_id="Tk4NDqrqSDM" %}
 
-Rosemary Sanchez is a Software Development Lead at Thin Air Labs.
+The following video is of a pretend meeting between a Customer,
+Product Manager, Designer and an Engineer to help your team come up with some ideas.
 
-{% include youtube.html youtube_id="Ex8NoZxgGPQ" %}
+{% include youtube.html youtube_id="zvA68LXHDCI" %}
+
+[designer]: ./../../roles/designer.html
+[engineer]: ./../../roles/software-engineer.html
+[issue]: https://github.com/CodeChica/SparkleHub-lite/issues/new
+[product-manager]: ./../../roles/product-manager.html
+[pull-request]: https://github.com/CodeChica/SparkleHub-lite/compare
+[sparklehub]: https://github.com/CodeChica/SparkleHub-lite
+[tasks]: ./../../roles/engineer.html#task-breakdown
+[user-story]: ./../../roles/product-manager.html#user-stories
+[wireframe]: ./../../roles/designer.html#what-is-a-wireframe

@@ -24,8 +24,7 @@ a place to sparkle others with kindness.
 | 0x06 | User Stories Applied | February. 26, 2022 | 11:00-14:00 CT |
 | 0x07 | Final Project work | March. 05, 2022 | 11:00-14:00 CT |
 | 0x08 | Final Project work | March. 12, 2022 | 11:00-14:00 CT |
-| 0x09 | Final Project work | March. 19, 2022 | 11:00-14:00 CT |
-| 0x0A | Project show case | March. 26, 2022 | 11:00-14:00 CT |
+| 0x09 | Final Project Presentation | March. 26, 2022 | 11:00-14:00 CT |
 
 <p class="text-center">
   <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">view events</a>

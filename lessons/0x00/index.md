@@ -11,9 +11,10 @@ Next, let's take a tour of [SparkleHub][sparklehub] together and discuss the fin
 
 ### Activity 1
 
-1. Join the CodeChica workspace in [Slack][slack].
+1. [Join the CodeChica workspace][invite-link] in [Slack][slack].
 1. [Create a GitHub Account][create-account].
-1. Share your username with the class in the [#general][general] channel on [Slack][slack].
+1. Share your username with the class in the [#general][general] channel.
+1. Post a gif in the [#general][general] channel.
 1. Accept the invitation to join [CodeChica](https://github.com/CodeChica/).
 
 ### Activity 2
@@ -29,3 +30,4 @@ Next, let's take a tour of [SparkleHub][sparklehub] together and discuss the fin
 [create-account]: https://github.com/join
 [slack]: ../../guides/slack.html
 [general]: https://codechica-plus-plus.slack.com/archives/C02CDMWDK7D
+[invite-link]: https://join.slack.com/t/codechica-plus-plus/shared_invite/zt-11ckrwzys-Rl1Dk~WjgZ3Qa6cbvkALfA

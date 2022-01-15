@@ -27,12 +27,12 @@ a place to sparkle others with kindness.
 | 0x09 | Final Project Presentation | March. 26, 2022 | 11:00-14:00 CT |
 
 <p class="text-center">
-  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">view events</a>
+  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">Upcoming events</a>
 </p>
 
-
-![Latinas Deserve More Than Equal Pay](/assets/images/latinas-deserve-more-than-equal-pay.png)
-[Source](https://hispanicstar.org/resources/)
+<a href="https://hispanicstar.org/resources/">
+  <img src="/assets/images/latinas-deserve-more-than-equal-pay.png" alt="Latinas Deserve More Than Equal Pay"/>
+</a>
 
 [slack]: /guides/slack.html
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite

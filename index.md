@@ -13,6 +13,10 @@ a place to sparkle others with kindness.
 <a href="https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777" class="button primary">Register Now</a>
 -->
 
+<p class="text-center">
+  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">Upcoming events</a>
+</p>
+
 | Lesson | Title | Date | Time |
 | :---: | :---: | :---: | :---: |
 | 0x00 | [HTML, CSS and JavaScript](./lessons/0x00/) | January. 15, 2022 | 11:00-14:00 CT |
@@ -26,9 +30,31 @@ a place to sparkle others with kindness.
 | 0x08 | Final Project work | March. 12, 2022 | 11:00-14:00 CT |
 | 0x09 | Final Project Presentation | March. 26, 2022 | 11:00-14:00 CT |
 
-<p class="text-center">
-  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">Upcoming events</a>
-</p>
+## OKR's
+
+1. Objective:
+
+    > Increase awareness of tech roles
+
+    Key Result(s):
+
+    * Students will present at the [project showcase][project] and talk about the role they like the best and explain why.
+
+1. Objective:
+
+    > Create exitement for tech.
+
+    Key Result(s):
+
+    * 3 new responses added to each [discussion topic](https://github.com/CodeChica/plus-plus/discussions).
+
+1. Objective:
+
+    > Create a safe environment for collaboration
+
+    Key Result(s):
+
+    * 1 gif posted to [Slack][slack] by 1 student each week.
 
 <a href="https://hispanicstar.org/resources/">
   <img src="/assets/images/latinas-deserve-more-than-equal-pay.png" alt="Latinas Deserve More Than Equal Pay"/>
@@ -40,3 +66,4 @@ a place to sparkle others with kindness.
 [recordings]: https://codechica-plus-plus.slack.com/archives/C02EQF56ULW
 [calendar]: https://calendar.google.com/calendar/u/0?cid=Y2xhc3Nyb29tMTA5OTkzMzI5MTI2NDM0MzIwNjMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [registration]: https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777
+[project]: ./lessons/0x09/

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <title>{{ site.title }}</title>
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Referrer-Policy" content="origin">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="{{ site.author }}" />
+    <meta name="description" content="{{ page.excerpt | strip_html }}" />
+    <meta name="referrer" content="no-referrer">
+    <meta name="twitter:card" content="{{ page.excerpt | strip_html }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+    <meta property="og:locale" content="en" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="twitter:title" content="{{ page.title }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="stylesheet" href="/assets/css/github.css?v={{ site.time | date: "%s" }}">
+    <link rel="stylesheet" href="/assets/css/screen.css?v={{ site.time | date: "%s" }}">
+  </head>
+  <body>
+    <header class="container">
+      <div class="row">
+        <div class="col-12">
+          <p class="text-center">
+            <a href="/" class="link">
+              <img src="/assets/images/code-chica-plus-plus.png" alt="{{ site.title }}" class="logo" />
+            </a>
+          </p>
+        </div>
+      </div>
+    </header>
+    <main class="container">
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+    <footer class="container">
+      <div class="row">
+        <div class="col-3">
+          <h4 class="text-center">&nbsp;</h4>
+          <img src="/assets/images/laChicaCode.png" alt="Chica waving" />
+        </div>
+        <div class="col-6">
+          <h4 class="text-center">Guides</h4>
+          <ul class="learn-navigation">
+            <li><a href="/guides/html.html">HTML</a></li>
+            <li><a href="/guides/css.html">CSS</a></li>
+            <li><a href="/guides/javascript.html">JavaScript</a></li>
+            <li><a href="/guides/markdown.html">Markdown</a></li>
+            <li><a href="/guides/terminal.html">Terminal</a></li>
+            <!-- <li><a href="/guides/golang.html">Go</a></li> -->
+            <!-- <li><a href="/guides/ruby.html">Ruby</a></li> -->
+            <li><a href="/guides/git.html">Git</a></li>
+            <!-- <li><a href="/guides/linux.html">Linux</a></li> -->
+            <li><a href="/guides/vscode.html">VS Code</a></li>
+            <li><a href="/guides/slack.html">Slack</a></li>
+            <li><a href="/guides/github.html">GitHub</a></li>
+          </ul>
+        </div>
+        <div class="col-3">
+          <h4 class="text-center">Contribute</h4>
+          <ul class="navigation">
+            <li><a href="/graduates.html">Graduates</a></li>
+            <li><a href="/speakers.html">Guest Speakers</a></li>
+            <li><a href="https://github.com/CodeChica">GitHub</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLaZatV79bZCRtD6yCw-goNH5Keh8ovMQp" target="_blank">YouTube</a></li>
+            <li><a href="/books.html">Books</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <p class="text-center font-medium">
+            Need help? Ask for help in our <a href="https://github.com/CodeChica/plus-plus/discussions">discussion forum</a> or in <a href="https://codechica-plus-plus.slack.com/">Slack</a> and we’ll help you sort it out.
+          </p>
+          <p class="text-center font-small"><a href="https://github.com/CodeChica/plus-plus/edit/gh-pages/{{ page.path }}">edit</a></p>
+          <p class="text-center font-small">&copy;2021 <a href="https://latinitasonline.org/" class="link">Latinitas</a>. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

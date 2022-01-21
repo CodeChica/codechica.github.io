@@ -20,12 +20,12 @@ Product Manager, Designer and an Engineer to help your team come up with some id
 
 {% include youtube.html youtube_id="zvA68LXHDCI" %}
 
-[designer]: ./../../roles/designer.html
-[engineer]: ./../../roles/software-engineer.html
+[designer]: ./../../../roles/designer.html
+[engineer]: ./../../../roles/software-engineer.html
 [issue]: https://github.com/CodeChica/SparkleHub-lite/issues/new
-[product-manager]: ./../../roles/product-manager.html
+[product-manager]: ./../../../roles/product-manager.html
 [pull-request]: https://github.com/CodeChica/SparkleHub-lite/compare
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite
-[tasks]: ./../../roles/engineer.html#task-breakdown
-[user-story]: ./../../roles/product-manager.html#user-stories
-[wireframe]: ./../../roles/designer.html#what-is-a-wireframe
+[tasks]: ./../../../roles/engineer.html#task-breakdown
+[user-story]: ./../../../roles/product-manager.html#user-stories
+[wireframe]: ./../../../roles/designer.html#what-is-a-wireframe

@@ -4,8 +4,8 @@
 
 [View slides](./slides.html)
 
-To learn more, read our [HTML Guide](../../guides/html.html),
-[CSS Guide](../../guides/css.html) or our [JavaScript Guide](../../guides/javascript.html).
+To learn more, read our [HTML Guide](../../../guides/html.html),
+[CSS Guide](../../guides/css.html) or our [JavaScript Guide](../../../guides/javascript.html).
 
 Next, let's take a tour of [SparkleHub][sparklehub] together and discuss the final project.
 
@@ -23,11 +23,11 @@ Next, let's take a tour of [SparkleHub][sparklehub] together and discuss the fin
 1. Complete "Customize your profile".
 1. Complete "Introduction to HTML".
 
-![Chica Sitting](../../assets/images/laChicaSitting.png)
+![Chica Sitting](../../../assets/images/laChicaSitting.png)
 
 [issues]: https://github.com/CodeChica/plus-plus/issues
 [sparklehub]: https://sparklehub.herokuapp.com/
 [create-account]: https://github.com/join
-[slack]: ../../guides/slack.html
+[slack]: ../../../guides/slack.html
 [general]: https://codechica-plus-plus.slack.com/archives/C02CDMWDK7D
 [invite-link]: https://join.slack.com/t/codechica-plus-plus/shared_invite/zt-11ckrwzys-Rl1Dk~WjgZ3Qa6cbvkALfA

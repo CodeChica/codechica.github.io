@@ -45,8 +45,8 @@
 
 {% include youtube.html youtube_id="K0mgc3efx-A" %}
 
-To learn more, read our [Terminal Guide](../../guides/terminal.html),
-and our [Git Guide](../../guides/git.html).
+To learn more, read our [Terminal Guide](../../../guides/terminal.html),
+and our [Git Guide](../../../guides/git.html).
 
 ## Activity
 
@@ -55,7 +55,7 @@ and our [Git Guide](../../guides/git.html).
 1. Complete the section named "Hello Git" from your [Lesson 0x01 issue][issues].
 1. Play the [Git branching game][git_game].
 
-![Chica Sitting](../../assets/images/laChicaSitting.png)
+![Chica Sitting](../../../assets/images/laChicaSitting.png)
 
 [git_game]: https://learngitbranching.js.org/
 [issues]: https://github.com/CodeChica/plus-plus/issues

@@ -16,7 +16,7 @@ layout: default
   </a>
 </div>
 
-<a href="https://hispanicstar.org/resources/">
+<a href="https://hispanicstar.org/">
   <img src="/assets/images/latinas-deserve-more-than-equal-pay.png" alt="Latinas Deserve More Than Equal Pay"/>
 </a>
 

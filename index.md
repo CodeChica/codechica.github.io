@@ -7,7 +7,7 @@ layout: default
 -->
 
 <div>
-  <a href="./" class="link">
+  <a href="./-/" class="link">
     <img src="/assets/images/code-chica.png" alt="CodeChica" style="width: 49%" />
   </a>
 

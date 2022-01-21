@@ -12,14 +12,14 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "lessons"
+      path: "plus-plus/lessons"
       type: "pages"
     values:
-      layout: "default"
+      layout: "plus-plus"
   - scope:
       path: "guides"
       type: "pages"
     values:
-      layout: "default"
+      layout: "plus-plus"
 plugins:
   - jekyll-youtube

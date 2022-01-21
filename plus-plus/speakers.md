@@ -1,10 +1,6 @@
----
-layout: default
----
-
 # Guest Speakers
 
-[Code Chica++](/) is our advanced level coding curriculum to teach girls
+[Code Chica++](/plus-plus/) is our advanced level coding curriculum to teach girls
 software development fundamentals and to help them explore the roles of
 Software Engineer, Designer, and Product Manager by building features in an
 existing application.

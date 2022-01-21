@@ -3,7 +3,7 @@
 ## Agenda
 
 1. [Announcements](#announcements)
-1. [Final Project work](../0x0A/)
+1. [Final Project work](../0x09/)
 1. [Jaylenne Ayala](#jaylenne-ayala)
 
 ## Announcements

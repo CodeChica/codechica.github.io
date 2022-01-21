@@ -1,4 +1,4 @@
-![Elena the Engineer](./../assets/images/elena-the-engineer-slim.png)
+![Elena the Engineer](/assets/images/elena-the-engineer-slim.png)
 
 _What image comes to mind when you think "engineer"? Many people think software engineers just sit at their computer writing lines of code all day. However, this role has many different aspects to it and uses lots of skills!_
 
@@ -113,7 +113,7 @@ Tasks:
 * [ ] Add acceptance tests for the new animation. (2 days)
 ```
 
-[ada]: ../../../heroes/ada-lovelace.html
-[designer]: ./../../roles/designer.html
-[product-manager]: ./../../roles/product-manager.html
-[user-story]: ./../../roles/product-manager.html#user-stories
+[ada]: ../../heroes/ada-lovelace.html
+[designer]: ./../roles/designer.html
+[product-manager]: ./../roles/product-manager.html
+[user-story]: ./../roles/product-manager.html#user-stories

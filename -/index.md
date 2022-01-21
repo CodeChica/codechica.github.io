@@ -1,15 +1,2 @@
-# CodeChica
-
-## Lesson 1
-
-Objectives
-
-* Learn the basic syntax and structure of HTML
-  * What is HTML?
-  * Why is it important?
-  * What happens if you don't have HTML?
-* Explain how HTML, CSS, and JavaScript all work together to create a website
-
-## Lesson 2
-
-## Lesson 3
+[Code Chica](./) is our free program for 8th–12th grade girls to gain knowledge
+about HTML, CSS, and JavaScript to create their own website.

@@ -1,11 +1,11 @@
-![Paola the Product Manager](./../assets/images/paola-the-product-manager-slim.png)
+![Paola the Product Manager](/assets/images/paola-the-product-manager-slim.png)
 
 Product Managers drive and lead their team's vision and are experts on the _why_ and _how_ of the product.
 They clearly define the problem that the product is solving, and what outcomes and goals need to be reached in order for it to be created. They work closely with teams of designers, engineers, and sometimes researchers, analysts and marketers.
 
 {% include youtube.html youtube_id="AGfWZlAikPQ" %}
 
-![UX/Tech/Business](./../../assets/images/tech-roles.png)
+![UX/Tech/Business](/assets/images/tech-roles.png)
 
 As the Venn Diagram shows, product managements lives at the intersection of Tech, User Experience and Business. The Product Manager must research and become acquainted with the needs of the user, the market, the customer, and the problem they have that you're trying to solve.
 
@@ -27,7 +27,7 @@ The typical template is as follows:
 > I want to [do something]
 > so that I can [achieve a goal].
 
-![As a young jedi, I want to use the force, so that I can lift my x-wing from the swamp](./../../assets/images/user-stories.jpg)
+![As a young jedi, I want to use the force, so that I can lift my x-wing from the swamp](/assets/images/user-stories.jpg)
 
 This templates is useful to help start a conversation about a new feature idea
 that you might have. In this course, we will create [new issues][issue] to record our

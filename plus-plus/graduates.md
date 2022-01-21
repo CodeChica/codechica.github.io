@@ -1,11 +1,7 @@
----
-layout: default
----
-
 # Graduates
 <hr />
 
-## September. 11, 2021 - November. 20, 2021 - CodeChica++
+## September. 11, 2021 - November. 20, 2021
 
 <div class="graduates">
   <div class="graduate">

@@ -32,7 +32,7 @@ By the end of this lesson you will:
 
 Get into groups and complete the following challenge.
 
-1. Build the world's smallest website. [Hint](./../../../guides/html.html)
+1. Build the world's smallest website. [Hint](./../../guides/html.html)
 1. Post a link to our website in the [#general][general] channel in [Slack][slack].
 
 <hr />
@@ -120,11 +120,11 @@ and how they build features. You met your teams that you will be working with
 on the final project, and chose a role. You began planning out your teams'
 feature(s).
 
-[ada]: ../../../../heroes/ada-lovelace.html
-[designer]: ./../../../roles/designer.html
-[engineer]: ./../../../roles/software-engineer.html
+[ada]: ../../../heroes/ada-lovelace.html
+[designer]: ./../../roles/designer.html
+[engineer]: ./../../roles/software-engineer.html
 [general]: https://codechica-plus-plus.slack.com/archives/C02CDMWDK7D
-[product-manager]: ./../../../roles/product-manager.html
-[slack]: ./../../../guides/slack.html
-[user-story]: ./../../../roles/product-manager.html#user-stories
-[final]: ./../0x0A/
+[product-manager]: ./../../roles/product-manager.html
+[slack]: ./../../guides/slack.html
+[user-story]: ./../../roles/product-manager.html#user-stories
+[final]: ./../0x09/

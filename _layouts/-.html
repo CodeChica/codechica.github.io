@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
-    <title>{{ site.title }}</title>
+    <title>CodeChica</title>
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Referrer-Policy" content="origin">
     <meta http-equiv="X-Content-Type-Options" content="nosniff">
@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:locale" content="en" />
-    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:site_name" content="CodeChica" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
@@ -27,6 +27,17 @@
     <link rel="stylesheet" href="/assets/css/screen.css?v={{ site.time | date: "%s" }}">
   </head>
   <body>
+    <header class="container">
+      <div class="row">
+        <div class="col-12">
+          <p class="text-center">
+            <a href="/-/" class="link">
+              <img src="/assets/images/code-chica-banner.png" alt="{{ site.title }}" class="logo" />
+            </a>
+          </p>
+        </div>
+      </div>
+    </header>
     <main class="container">
       <div class="row">
         <div class="col-12">
@@ -34,12 +45,5 @@
         </div>
       </div>
     </main>
-    <footer class="container">
-      <div class="row">
-        <div class="col-12">
-          <p class="text-center font-small">&copy;2021 <a href="https://latinitasonline.org/" class="link">Latinitas</a>. All rights reserved.</p>
-        </div>
-      </div>
-    </footer>
   </body>
 </html>

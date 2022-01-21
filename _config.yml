@@ -12,12 +12,12 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "plus-plus/lessons"
+      path: "-"
       type: "pages"
     values:
-      layout: "plus-plus"
+      layout: "-"
   - scope:
-      path: "guides"
+      path: "plus-plus"
       type: "pages"
     values:
       layout: "plus-plus"

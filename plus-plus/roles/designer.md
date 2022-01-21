@@ -1,4 +1,4 @@
-![Diana the Designer](./../assets/images/diana-the-designer-slim.png)
+![Diana the Designer](/assets/images/diana-the-designer-slim.png)
 
 Design is more than just making things look nicer, it's problem solving! Designers play a major role into creating the best user experience possible.
 

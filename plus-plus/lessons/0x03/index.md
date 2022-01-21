@@ -53,12 +53,12 @@ Agenda:
   * Engineer
 1. Present your GitHub profile page to each other.
 1. Pick one of the profile pages to improve.
-  * Create a [User Story](./../../../roles/product-manager.html#user-stories) to improve the profile page.
-  * Create a [Wireframe](./../../../roles/designer.html#what-is-a-wireframe) that satisfies the User Story.
+  * Create a [User Story](./../../roles/product-manager.html#user-stories) to improve the profile page.
+  * Create a [Wireframe](./../../roles/designer.html#what-is-a-wireframe) that satisfies the User Story.
   * Update the profile page to match the design.
 1. Presentation
-  * The Product Manager will present the teams [User Story](./../../../roles/product-manager.html#user-stories)
-  * The Designer will present the teams [Wireframe](./../../../roles/designer.html#what-is-a-wireframe)
+  * The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
+  * The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
   * The Engineer will present the updated profile page.
 
 {% include youtube.html youtube_id="AGfWZlAikPQ" %}
@@ -90,7 +90,7 @@ If we make changes, and something does change, a test will fail (essentially war
 TDD also helps with better code coverage, which leads to fewer bugs in your application.
 Finally, you can look back on your code and know exactly what you were trying to do by reading your tests.
 
-To learn more, read our [Ruby Guide](../../../guides/ruby.html)
+To learn more, read our [Ruby Guide](../../guides/ruby.html)
 
 ### Write your first test
 

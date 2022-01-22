@@ -12,7 +12,7 @@ a place to sparkle others with kindness.
 | Lesson | Title | Date | Time |
 | :---: | :---: | :---: | :---: |
 | 0x00 | [HTML, CSS and JavaScript](./lessons/0x00/) | January. 15, 2022 | 11:00-14:00 CT |
-| 0x01 | Source control and Git   | January. 22, 2022 | 11:00-14:00 CT |
+| 0x01 | [Source control and Git](./lessons/0x01/)   | January. 22, 2022 | 11:00-14:00 CT |
 | 0x02 | Tech Roles Overview      | January. 29, 2022 | 11:00-14:00 CT |
 | 0x03 | Collaborating with others | Februrary. 05, 2022 | 11:00-14:00 CT |
 | 0x04 | The Software Engineer's role | Februrary. 12, 2022 | 11:00-14:00 CT |

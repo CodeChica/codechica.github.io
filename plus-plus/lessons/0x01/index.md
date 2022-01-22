@@ -28,20 +28,13 @@
 * Rinse & repeat exercises (source control, do an exercise each class?)
 -->
 
-* 30 min: CSS Animations demo. [Sparkle Party](https://github.com/codechica/sparkle-party)
-* 30 min: Finish working on [Lesson 1 issue][issues].
-* 30 min: Presentation on Source Control
-* 15 min: [Play a game together](https://create.kahoot.it/share/git-terms/6bf90eb7-3c80-43d5-a0ff-b710cc767040)
-* 60 min: Work on assigned [Lesson 2 issue][issues]
-* 15 min: Heart, Fart and Shopping Cart
-
-## Source Control
-
 <!--
 ::TODO insert youtube video here.
 
 [Slides](./slides.html)
 -->
+
+Please complete the [pre-survey](https://forms.gle/2ppoi5hh6kcPSGoH7).
 
 {% include youtube.html youtube_id="K0mgc3efx-A" %}
 
@@ -51,8 +44,8 @@ and our [Git Guide](../../guides/git.html).
 ## Activity
 
 1. [Create your second issue](../../guides/github.html#issues)
-1. Complete the section named "Hello Terminal" from your [Lesson 0x01 issue][issues].
-1. Complete the section named "Hello Git" from your [Lesson 0x01 issue][issues].
+1. Complete "Hello Terminal" from your [Lesson 0x01 issue][issues].
+1. Complete "Hello Git" from your [Lesson 0x01 issue][issues].
 1. Play the [Git branching game][git_game].
 
 ![Chica Sitting](/assets/images/laChicaSitting.png)

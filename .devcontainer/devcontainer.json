@@ -1,0 +1,18 @@
+{
+  "name": "codechica/codechica.github.io",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "VARIANT": "1"
+    }
+  },
+  "onCreateCommand": "bundle install",
+  "postAttachCommand": "bundle exec jekyll serve",
+  "runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined" ],
+  "settings": { },
+  "extensions": [
+    "github.github-vscode-theme",
+    "github.vscode-pull-request-github"
+  ],
+  "forwardPorts": ["4000"]
+}

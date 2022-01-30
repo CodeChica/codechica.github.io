@@ -41,6 +41,11 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 Watch all of our presentations on our [YouTube Playlist][playlist].
 
+### Rachel Potvin
+
+{% include youtube.html youtube_id="-oiku8j9v6w" %}
+<hr />
+
 ### Rosemary Sanchez
 
 {% include youtube.html youtube_id="Ex8NoZxgGPQ" %}

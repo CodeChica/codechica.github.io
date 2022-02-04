@@ -12,3 +12,9 @@ about HTML, CSS, and JavaScript to create their own website.
 7. We will come back together as a big group and we will discuss [HTML](../plus-plus/guides/html.html)
 8. We will break into smaller groups again and work on HTML. We will take the bios that they wrote and start applying HTML tags to them.
 9. File Management
+
+# Class 4
+
+1. Continue with Bios and HTML
+2. Import font into our portfolio 
+3. Add [CSS](../plus-plus/guides/css.html) 

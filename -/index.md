@@ -1,6 +1,15 @@
 [Code Chica](./) is our free program for 8th–12th grade girls to gain knowledge
 about HTML, CSS, and JavaScript to create their own website.
 
+
+<div>
+  <a href="./wireframes.html">Wireframes</a>
+  <a href="./html.html">HTML</a>
+  <a href="./css.html">CSS</a>
+  <a href="./javascript.html">Javascript</a>
+</div>
+
+
 # Class 2
 
 1. As a big group - I will give an overview of [Slack](../plus-plus/guides/slack.html)
@@ -18,3 +27,6 @@ about HTML, CSS, and JavaScript to create their own website.
 1. Continue with Bios and HTML
 2. Import font into our portfolio 
 3. Add [CSS](../plus-plus/guides/css.html) 
+
+
+

@@ -39,29 +39,40 @@ How will this differentiate them from other devs?
 
 Agenda:
 
-* Group Activity (1 hour)
-* Guest Speaker [@asciimike](https://github.com/asciimike) (30-45 minutes)
-* Test Driven Development (1 hour)
-* [Heart, Fart, Shopping Cart](https://docs.google.com/document/d/1mV7g-5E4GdLOG0j4l2xhJGNCw32uSDB9LMj6vbIFU9g/edit?usp=sharing)
+* Learn about the role of the [Designer](./../../roles/designer.html).
+  * [Presentation](./slides.html)
+* Create a [Wireframe](./../../roles/designer.html#what-is-a-wireframe) for the [User Stories](https://github.com/CodeChica/SparkleHub-lite/issues) that we created.
+* Guest Speaker [@rrrosemaryyy](https://github.com/rrrosemaryyy)
 
 ## Group Activity
 
-1. Create teams of 3 people.
-1. Choose who will be the:
-  * Product Manager
-  * Designer
-  * Engineer
-1. Present your GitHub profile page to each other.
-1. Pick one of the profile pages to improve.
-  * Create a [User Story](./../../roles/product-manager.html#user-stories) to improve the profile page.
-  * Create a [Wireframe](./../../roles/designer.html#what-is-a-wireframe) that satisfies the User Story.
-  * Update the profile page to match the design.
-1. Presentation
-  * The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
-  * The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
-  * The Engineer will present the updated profile page.
+1. Present your GitHub profile page to the class.
 
-{% include youtube.html youtube_id="AGfWZlAikPQ" %}
+## Lesson
+
+![Diana The Designer](/assets/images/diana-the-designer-slim.png)
+
+As a Designer, Diana gets to think creatively to come up with new ideas for how
+to improve user experience on websites. This might include improving page navigation,
+choosing colours palettes that are friendly to people who are
+visually impaired or find better ways to present data to make it easier to
+understand. Diana loves to share [wireframes](./../../roles/designer.html#what-is-a-wireframe)
+with her colleagues to collect feedback.
+
+[Learn more about Diana and her work.](./../../roles/designer.html)
+
+As the Venn Diagram illustrates, there is some overlap with the responsibilities
+between Paola and Diana.
+
+![Product/Design Overlap](/assets/images/product-design-overlap.png)
+
+
+## Examples
+
+![Homepage Wireframe](/assets/images/Wireframe_Homepage.jpg)
+![Sitemap Wireframe](/assets/images/Wireframe_Sitemap.jpg)
+
+<!--
 
 ## Introduction
 
@@ -227,7 +238,7 @@ Repeat the peer review and refactor steps until you are happy with the state of 
 
 In this lesson, you learned about test driven development and the reasons for its use. You also learned some intro Ruby concepts in order to get your first suite of tests to pass and to write your own tests. Finally, you practiced peer reviewing someone else's code, and refactoring to make your code better.
 
-<!--
+
 ## Lesson 0x03
 
 Software Engineering Lifecycle

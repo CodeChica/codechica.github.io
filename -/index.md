@@ -112,6 +112,13 @@ If you had more time and resources, what would you change? Why?
 9. File Management
 
 
+# Class 4
+
+1. Continue with Bios and HTML
+2. Import font into our portfolio 
+3. Add [CSS](../plus-plus/guides/css.html) 
+
+
 
 
 

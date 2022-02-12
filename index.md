@@ -6,6 +6,8 @@ layout: default
 <a href="https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777" class="button primary">Register Now</a>
 -->
 
+gab c was here!
+
 <div>
   <a href="/-/" class="link">
     <img src="/assets/images/code-chica.png" alt="CodeChica" style="width: 49%" />

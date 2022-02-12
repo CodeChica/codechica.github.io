@@ -15,7 +15,7 @@ a place to sparkle others with kindness.
 | 0x01 | [Source control and Git](./lessons/0x01/)   | January. 22, 2022 | 11:00-14:00 CT | |
 | 0x02 | [Tech Roles Overview](./lessons/0x02/)      | January. 29, 2022 | 11:00-14:00 CT | [Rachel Potvin](https://github.com/rachelpotvin) |
 | 0x03 | [Collaborating with others](./lessons/0x03/) | Februrary. 05, 2022 | 11:00-14:00 CT | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
-| 0x04 | The Software Engineer's role | Februrary. 12, 2022 | 11:00-14:00 CT | |
+| 0x04 | [The Software Engineer's role](./lessons/0x04/) | Februrary. 12, 2022 | 11:00-14:00 CT | []() |
 | 0x05 | Exploring SparkleHub   | February. 19, 2022 | 11:00-14:00 CT | |
 | 0x06 | User Stories Applied | February. 26, 2022 | 11:00-14:00 CT | |
 | 0x07 | Final Project work | March. 05, 2022 | 11:00-14:00 CT | [Sofia Bonnet](https://github.com/sofiatwins) |

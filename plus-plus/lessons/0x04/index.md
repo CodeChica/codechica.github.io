@@ -10,8 +10,6 @@ You will get to try out either the [Product Manager][product-manager],
 By the end of this lesson you will:
 
 * learn about the role of the Software Engineer.
-* form teams and learn the [final project requirements][final].
-* get to try out the role of either [Product Manager][product-manager], [Designer][designer] or [Engineer][engineer].
 
 {% include youtube.html youtube_id="VSraiYX6Pl4" %}
 
@@ -21,10 +19,6 @@ By the end of this lesson you will:
 
 1. [The Software Game](./slides.html)
 1. [Mini Coding Challenge](#warmup---mini-coding-challenge)
-1. [Sam Klein, UX Designer](#guest-speaker--sam-klein)
-1. [Example](#example--adding-confetti-to-sparklehub)
-1. [Meet your teams](#activity---meet-your-teams)
-1. [Heart, Fart and Shopping Cart](https://docs.google.com/document/d/1STo59fviyZraDr28txpKQUmQROLaVsEhyZT-QDtyjwc/edit?usp=sharing)
 
 <hr />
 

@@ -11,8 +11,6 @@ On Microsoft Windows you can use [PowerShell][powershell].
 For this course we will use the [terminal][integrated_terminal] that is built
 into VSCode and a [Codespace][codespace].
 
-{% include youtube.html youtube_id="x73WTEltyHU" %}
-
 ### Getting Started
 
 For this lesson you will need to [open your Codespace][codespace] and then
@@ -22,7 +20,7 @@ The terminal is a portal that allows you interact with your computer.
 It provides a command line interface that looks like this:
 
 ```bash
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 $
 ```
 
@@ -30,20 +28,20 @@ Start by typing command, like `ls`, followed by pressing the Enter key.
 The terminal will execute that command and print the output from the command.
 
 When you start up a new Codespace the default directory that the
-terminal starts in is the `/workspaces/SparkleHub` directory. This directory
+terminal starts in is the `/workspaces/SparkleHub-lite` directory. This directory
 contains all the code for the CodeChica++ final project.
 
 ### `man`
 
 If you forget what a specific command does you can find the answer in the `man`
-page. `man` is short for instruction *manual*. To look up a command in the
-manual type `man` then the name of the command.
+page. [`man`][man] is short for instruction *manual*. To look up a command in the
+manual type [`man`][man] then the name of the command.
 
 For example:
 
 ```bash
 $ man man
-MAN(1)                             Manual pager utils                             MAN(1)
+MAN(1)                    Manual pager utils                             MAN(1)
 
 NAME
        man - an interface to the system reference manuals
@@ -57,22 +55,23 @@ SYNOPSIS
        man -w|-W [man options] page ...
 
 DESCRIPTION
-       man  is  the  system's manual pager.  Each page argument given to man is normally
-       the name of a program, utility or function.  The manual page associated with each
-       of these arguments is then found and displayed.  A section, if provided, will di‐
-       rect man to look only in that section of the manual.  The default  action  is  to
-       search  in  all  of the available sections following a pre-defined order (see DE‐
-       FAULTS), and to show only the first page found, even if page  exists  in  several
+       man  is  the  systems manual pager.  Each page argument given to man is
+       normally the name of a program, utility or function.  The manual page
+       associated with each of these arguments is then found and displayed.  A
+       section, if provided, will direct man to look only in that section of
+       the manual.  The default  action  is  to search  in  all  of the
+       available sections following a pre-defined order (see DEFAULTS), and to
+       show only the first page found, even if page  exists  in  several
        sections.
 ```
 
 ### `ls`
 
-The `ls` command will *list* all the files in a directory.
+The [`ls`][ls] command will *list* all the files in a directory.
 
 ```bash
 $ man ls
-LS(1)                                 User Commands                                LS(1)
+LS(1)                        User Commands                                LS(1)
 
 NAME
        ls - list directory contents
@@ -81,87 +80,74 @@ SYNOPSIS
        ls [OPTION]... [FILE]...
 
 DESCRIPTION
-       List  information  about  the FILEs (the current directory by default).  Sort en‐
-       tries alphabetically if none of -cftuvSUX nor --sort is specified.
+       List  information  about  the FILEs (the current directory by default).
+       Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
 
        Mandatory arguments to long options are mandatory for short options too.
 ```
-- https://man7.org/linux/man-pages/man1/ls.1.html
 
 #### Examples
 
 List files in the current directory:
 
 ```bash
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 $ ls
-Gemfile       app              config.ru     package.json       tmp
-Gemfile.lock  babel.config.js  db            postcss.config.js  vendor
-README.md     bin              doc           script             yarn.lock
-Rakefile      config           node_modules  test
+go.mod  go.sum  main.go  public  README.md  script  server.go  server_test.go
+sparkle.go  sparkle_test.go
 ```
 
-List the files in the `app` directory:
+List the files in the `public` directory:
 
 ```bash
-/workspaces/SparkleHub
-$ ls app/
-controllers/  javascript/  models/  views/
+/workspaces/SparkleHub-lite
+$ ls public/
+application.js  css  favicon.ico  index.html  vendor
 ```
 
 List the files using a long list format.
 
 ```bash
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 $ ls -l script/
-total 12K
--rwxr-xr-x 1 username 185 Jul 26 20:46 server*
--rwxr-xr-x 1 username 320 Jul 26 20:46 setup*
--rwxr-xr-x 1 username 183 Jul 26 20:46 test*
+total 16
+-rwxrwxrwx 1 root root  57 Feb 18 19:32 server
+-rwxrwxrwx 1 root root 254 Feb 18 19:32 sparkle
+-rwxrwxrwx 1 root root  85 Feb 18 19:32 sparkles
+-rwxrwxrwx 1 root root  63 Feb 18 19:32 test
 ```
 
 List all files (including hidden ones) using a long list format.
 
 ```bash
-/workspaces/SparkleHub
-$ ls -al
-total 404K
-drwxr-xr-x 14 username 4.0K Jul 26 20:46 ./
-drwxr-xr-x  3 username 4.0K Jul 26 20:46 ../
-drwxr-xr-x  6 username 4.0K Jul 26 20:46 app/
--rw-r--r--  1 username 1.7K Jul 26 20:46 babel.config.js
-drwxr-xr-x  2 username 4.0K Jul 26 20:46 bin/
--rw-r--r--  1 username    9 Jul 26 20:46 .browserslistrc
-drwxr-xr-x  4 username 4.0K Jul 26 20:46 config/
--rw-r--r--  1 username  160 Jul 26 20:46 config.ru
-drwxr-xr-x  3 username 4.0K Jul 26 20:46 db/
-drwxr-xr-x  2 username 4.0K Jul 26 20:46 .devcontainer/
-drwxr-xr-x  2 username 4.0K Jul 26 20:46 doc/
--rw-r--r--  1 username  200 Jul 26 20:46 Gemfile
--rw-r--r--  1 username 4.1K Jul 26 20:46 Gemfile.lock
-drwxr-xr-x  8 username 4.0K Jul 26 20:46 .git/
-drwxr-xr-x  4 username 4.0K Jul 26 20:46 .github/
--rw-r--r--  1 username  776 Jul 26 20:46 .gitignore
--rw-r--r--  1 username  302 Jul 26 20:46 package.json
--rw-r--r--  1 username  224 Jul 26 20:46 postcss.config.js
--rw-r--r--  1 username   68 Jul 26 20:46 Rakefile
--rw-r--r--  1 username  413 Jul 26 20:46 README.md
--rw-r--r--  1 username   11 Jul 26 20:46 .ruby-version
-drwxr-xr-x  2 username 4.0K Jul 26 20:46 script/
-drwxr-xr-x  6 username 4.0K Jul 26 20:46 test/
-drwxr-xr-x  3 username 4.0K Jul 26 20:46 tmp/
-drwxr-xr-x  3 username 4.0K Jul 26 20:46 vendor/
--rw-r--r--  1 username 300K Jul 26 20:46 yarn.lock
+/workspaces/SparkleHub-lite
+$ ls -alh
+total 60K
+drwxrwxrwx+ 7 root root 4.0K Feb 18 19:32 .
+drwxr-xrwx+ 4 root root 4.0K Feb 18 19:32 ..
+drwxrwxrwx+ 2 root root 4.0K Feb 18 19:32 .devcontainer
+drwxrwxrwx+ 8 root root 4.0K Feb 18 19:33 .git
+drwxrwxrwx+ 3 root root 4.0K Feb 18 19:32 .github
+-rw-rw-rw-  1 root root  401 Feb 18 19:32 go.mod
+-rw-rw-rw-  1 root root 1.6K Feb 18 19:32 go.sum
+-rw-rw-rw-  1 root root  355 Feb 18 19:32 main.go
+drwxrwxrwx+ 4 root root 4.0K Feb 18 19:32 public
+-rw-rw-rw-  1 root root 1.1K Feb 18 19:32 README.md
+drwxrwxrwx+ 2 root root 4.0K Feb 18 19:32 script
+-rw-rw-rw-  1 root root 1.5K Feb 18 19:32 server.go
+-rw-rw-rw-  1 root root 2.2K Feb 18 19:32 server_test.go
+-rw-rw-rw-  1 root root  753 Feb 18 19:32 sparkle.go
+-rw-rw-rw-  1 root root 1.2K Feb 18 19:32 sparkle_test.go
 ```
 
 ### `pwd`
 
-The `pwd` command can be used to *print* the *working directory*. This is very
+The [`pwd`][pwd] command can be used to *print* the *working directory*. This is very
 helpful when you can't remember what directory you are in.
 
 ```bash
 $ man pwd
-PWD(1)                                User Commands                               PWD(1)
+PWD(1)                       User Commands                               PWD(1)
 
 NAME
        pwd - print name of current/working directory
@@ -172,7 +158,6 @@ SYNOPSIS
 DESCRIPTION
        Print the full filename of the current working directory.
 ```
-- https://man7.org/linux/man-pages/man1/pwd.1.html
 
 ### Examples
 
@@ -180,12 +165,12 @@ Print the current working directory.
 
 ```bash
 $ pwd
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 ```
 
 ### Change Directory `cd`
 
-The `cd` command can be used to *change directories*.
+The [`cd`][cd] command can be used to *change directories*.
 This builtin is useful when you want to switch to a different directory to do a
 little bit of work from there.
 
@@ -194,8 +179,8 @@ $ help cd
 cd: cd [-L|[-P [-e]] [-@]] [dir]
     Change the shell working directory.
 
-    Change the current directory to DIR.  The default DIR is the value of the
-    HOME shell variable.
+    Change the current directory to DIR.
+    The default DIR is the value of the HOME shell variable.
 ```
 
 #### Examples
@@ -203,7 +188,7 @@ cd: cd [-L|[-P [-e]] [-@]] [dir]
 Change the current directory to your $HOME directory:
 
 ```bash
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 $ cd ~/
 /home/username/
 $
@@ -220,11 +205,11 @@ $
 
 ### `mkdir`
 
-The `mkdir` command can be used to *make* a new *directory*.
+The [`mkdir`][mkdir] command can be used to *make* a new *directory*.
 
 ```bash
 $ man mkdir
-MKDIR(1)                              User Commands                             MKDIR(1)
+MKDIR(1)                     User Commands                             MKDIR(1)
 
 NAME
        mkdir - make directories
@@ -241,7 +226,7 @@ DESCRIPTION
 To create a new directory named `butterfly`.
 
 ```bash
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 $ mkdir butterfly
 ```
 
@@ -251,12 +236,19 @@ create the directory if it doesn't already exist and will just do nothing
 (instead of giving you an error) if it does exist:
 
 ```bash
-/workspaces/SparkleHub
+/workspaces/SparkleHub-lite
 $ mkdir -p skittles-and-rainbows
 ```
 
+Next, try the [git][git] guide!
+
+[cd]: https://man7.org/linux/man-pages/man1/cd.1p.html
 [codespace]: ./github.html#codespaces
 [git]: ./git.html
 [integrated_terminal]: ./vscode.html#integrated-terminal
+[ls]: https://man7.org/linux/man-pages/man1/ls.1.html
+[man]: https://man7.org/linux/man-pages/man1/man.1.html
 [powershell]: https://docs.microsoft.com/en-us/powershell/
+[pwd]: https://man7.org/linux/man-pages/man1/pwd.1.html
+[mkdir]: https://man7.org/linux/man-pages/man1/mkdir.1.html
 [terminal.app]: https://support.apple.com/en-ca/guide/terminal/welcome/mac

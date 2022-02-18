@@ -9,6 +9,8 @@ a [Designer](./roles/designer.html) and an [Engineer](./roles/software-engineer.
 You will learn how to contribute to [SparkleHub][sparklehub],
 a place to sparkle others with kindness.
 
+![Chica Coding](/assets/images/chica-coding-plus-plus-top-view.png)
+
 | Lesson | Title | Date | Time | Guest Speaker |
 | :---: | :---: | :---: | :---: | :---: |
 | 0x00 | [HTML, CSS and JavaScript](./lessons/0x00/) | January. 15, 2022 | 11:00-14:00 CT | |

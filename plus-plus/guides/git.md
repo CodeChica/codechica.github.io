@@ -230,12 +230,14 @@ changes into the owner's repository.
 Repository (repo)
 : A repo is a directory of code managed by git.
 
+Next, try the [GitHub][github] guide!
+
 [alacritty]: https://github.com/alacritty/alacritty
 [codechica]: https://github.com/CodeChica/
 [codespace]: ./github.html#codespaces
 [git]: https://git-scm.com/
 [git_handbook]: https://guides.github.com/introduction/git-handbook/
-[github]: https://github.com/
+[github]: ./github.html
 [learngit]: https://learngitbranching.js.org/
 [linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
 [scm]: https://code.visualstudio.com/Docs/editor/versioncontrol

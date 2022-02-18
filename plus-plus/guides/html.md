@@ -48,44 +48,15 @@ Some elements are self closing and some elements can contain other elements.
 * ...
 * [`<h6>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h6) is a level 6 heading
 
-[HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-[Publishing via GitHub](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website#publishing_via_github)
-
 {% include youtube.html youtube_id="y6stlwCb7VU" %}
 
+#### Resources
 
-Linking HTML and CSS files
+* [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Publishing via GitHub](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website#publishing_via_github)
 
-{% include youtube.html youtube_id="ZO98acQRLgY" %}
+Next, try the [CSS][css] guide!
 
-### Tools
-
-Web developers rely on many tools to help them build amazing web sites. Below is
-a list of tools that we will use in this course.
-
-#### dev-tools
-
-Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chrome][chrome].
-
-{% include youtube.html youtube_id="VYyQv0CSZOE" %}
-
-#### http-server
-
-In this class we'll use an HTTP server. An HTTP server is a program that sends webpages to browsers.
-
-There are two ways to install the `http-server`.
-Download the latest version from [here](https://github.com/xlg-pkg/http-server/releases)
-or install from the [terminal](./terminal.html) by running:
-
-  ```bash
-  $ go install github.com/xlg-pkg/http-server@latest
-  ```
-
-Then we can start the `http-server` from the [terminal](./terminal.html).
-
-  ```bash
-  $ http-server
-  ```
-
+[css]: ./css.html
 [chrome]: https://www.google.com/chrome/
 [devtools]: https://developer.chrome.com/docs/devtools/overview/

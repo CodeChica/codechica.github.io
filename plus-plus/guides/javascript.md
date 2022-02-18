@@ -57,12 +57,9 @@ function clickButton() {
 }
 ```
 
-{% include youtube.html youtube_id="LFa9fnQGb3g" %}
-
+{% include youtube.html youtube_id="_y9oxzTGERs" %}
 
 ## Data Types
-
-{% include youtube.html youtube_id="_y9oxzTGERs" %}
 
 * [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
@@ -72,8 +69,6 @@ function clickButton() {
 * [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 ## Variables
-
-{% include youtube.html youtube_id="u0Mq3FzpsmI" %}
 
 Example:
 
@@ -92,8 +87,6 @@ Read more about [declaring variables](https://developer.mozilla.org/en-US/docs/W
 
 ## Functions
 
-{% include youtube.html youtube_id="AY6X5jZZ_JE" %}
-
 Example:
 
 ```javascript
@@ -109,8 +102,6 @@ Read more about [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScr
 
 ## Loops
 
-{% include youtube.html youtube_id="orAS-MBh5f4" %}
-
 ```javascript
 for (let i = 0; i < 3; i++) {
   console.log("Happy Birthday to you");
@@ -120,8 +111,6 @@ for (let i = 0; i < 3; i++) {
 * [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
 
 ## Events
-
-{% include youtube.html youtube_id="e57ReoUn6kM" %}
 
 Sometimes our JavaScript will need to access HTML elements that are on the page.
 To make sure that the HTML [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -156,15 +145,9 @@ message.
 
 Read more about [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
 
-## [SparkleHub's][sparklehub] JavaScript
 
-{% include youtube.html youtube_id="7qobB9DM0Ck" %}
-{% include youtube.html youtube_id="Qc7VXnsMLkU" %}
+Next, try the [JavaScript lab][lab]!
 
-## Additional Resources
-
-{% include youtube.html youtube_id="QLatPwsbDrQ" %}
-{% include youtube.html youtube_id="tH-q9QFNUdA" %}
-
+[lab]: https://github.com/CodeChica/plus-plus/tree/main/labs/nodejs
 [script]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite

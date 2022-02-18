@@ -5,8 +5,6 @@ the browser how to make your page look.
 
 In CSS you specify which types of element should get certain settings.
 
-e.g.
-
 ```css
 /* Find all 'div' elements and give them a pink background. */
 div {
@@ -31,9 +29,58 @@ div {
 }
 ```
 
+## Getting Started
+
+The easiest way to add a little bit of CSS to your web page is to add a
+[`style`][style] element to your webpage.
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <title>Simple</title>
+    <style>
+      p {
+        background-color: pink;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Is it just me or is it pink in here?</p>
+  </body>
+</html>
+```
+
+When your CSS starts to get a little more complicated then it's time to move it
+to a separate file. This will make it easier to work on your HTML and CSS in
+separate tabs.
+
+index.html
+```html
+<!doctype html>
+<html>
+  <head>
+    <title>Simple</title>
+    <link rel="stylesheet" href="application.css">
+  </head>
+  <body>
+    <p>Is it just me or is it pink in here?</p>
+  </body>
+</html>
+```
+
+application.css
+```css
+p {
+  background-color: pink;
+}
+```
+
 ## Grid Layout
 
-{% include youtube.html youtube_id="rPOX2hcaFvw" %}
+Using a grid layout will make it easier to build a responsive web site that can
+adjust the way it looks depending on the type of device that you're viewing it
+from.
 
 <pre>
  Desktop                           Mobile
@@ -51,10 +98,15 @@ div {
  -------------------------------   ----------
 </pre>
 
+{% include youtube.html youtube_id="rPOX2hcaFvw" %}
+
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
-  <head><title>Grid Layout</title></head>
+  <head>
+    <title>Grid Layout</title>
+    <link rel="stylesheet" href="application.css">
+  </head>
   <body>
     <header></header>
     <nav></nav>
@@ -87,6 +139,8 @@ footer { grid-area: footer; }
 
 ## Flex Layout
 
+{% include empty.html %}
+
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 <!--
@@ -114,3 +168,7 @@ TODO:: Describe
 ## Animations
 
 {% include youtube.html youtube_id="etQEBtvI4zQ" %}
+
+Next, try the [JavaScript][js] guide!
+
+[js]: ./javascript.html

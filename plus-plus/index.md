@@ -2,7 +2,7 @@
 layout: plus-plus
 ---
 
-CodeChica++ is a course designed to teach you about [source control](./guides/git.html),
+[CodeChica++](./) is a course designed to teach you about [source control](./guides/git.html#source-control),
 writing tests, fixing bugs, and other web development fundamentals.
 You will explore roles from the perspective of a [Product Manager](./roles/product-manager.html),
 a [Designer](./roles/designer.html) and an [Engineer](./roles/software-engineer.html).

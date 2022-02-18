@@ -20,9 +20,10 @@ a place to sparkle others with kindness.
 | 0x04 | [The Software Engineer's role](./lessons/0x04/) | Februrary. 12, 2022 | 11:00-14:00 CT | Alexandra Avila |
 | 0x05 | Exploring SparkleHub   | February. 19, 2022 | 11:00-14:00 CT | |
 | 0x06 | User Stories Applied | February. 26, 2022 | 11:00-14:00 CT | |
-| 0x07 | Final Project work | March. 05, 2022 | 11:00-14:00 CT | [Sofia Bonnet](https://github.com/sofiatwins) |
-| 0x08 | Final Project work | March. 12, 2022 | 11:00-14:00 CT | |
-| 0x09 | Final Project Presentation | March. 26, 2022 | 11:00-14:00 CT | |
+| 0x07 | [Final Project work](./project.html) | March. 05, 2022 | 11:00-14:00 CT | |
+| 0x08 | [Final Project work](./project.html) | March. 12, 2022 | 11:00-14:00 CT | Analicia Galindo |
+| 0x09 | [Final Project work](./project.html) | March. 26, 2022 | 11:00-14:00 CT | [Sofia Bonnet](https://github.com/sofiatwins) |
+| 0x0A | [Final Project Presentation](./project.html) | April. 02, 2022 | 13:00-15:00 CT | |
 
 ## OKR's
 

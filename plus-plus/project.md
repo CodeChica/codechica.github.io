@@ -11,21 +11,17 @@ Each team will choose who will be the [Product Manager][product-manager],
 
 Each member of the team will present how they contributed to the feature that they worked on together.
 
-The following video provides an example of the full process.
-
-{% include youtube.html youtube_id="Tk4NDqrqSDM" %}
-
 The following video is of a pretend meeting between a Customer,
 Product Manager, Designer and an Engineer to help your team come up with some ideas.
 
 {% include youtube.html youtube_id="zvA68LXHDCI" %}
 
-[designer]: ./../../roles/designer.html
-[engineer]: ./../../roles/software-engineer.html
+[designer]: /plus-plus/roles/designer.html
+[engineer]: /plus-plus/roles/software-engineer.html
 [issue]: https://github.com/CodeChica/SparkleHub-lite/issues/new
-[product-manager]: ./../../roles/product-manager.html
+[product-manager]: /plus-plus/roles/product-manager.html
 [pull-request]: https://github.com/CodeChica/SparkleHub-lite/compare
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite
-[tasks]: ./../../roles/software-engineer.html#task-breakdown
-[user-story]: ./../../roles/product-manager.html#user-stories
-[wireframe]: ./../../roles/designer.html#what-is-a-wireframe
+[tasks]: /plus-plus/roles/software-engineer.html#task-breakdown
+[user-story]: /plus-plus/roles/product-manager.html#user-stories
+[wireframe]: /plus-plus/roles/designer.html#what-is-a-wireframe

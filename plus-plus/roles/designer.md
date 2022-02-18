@@ -1,14 +1,20 @@
-![Diana the Designer](/assets/images/diana-the-designer-slim.png)
+<img src="/assets/images/diana-the-designer-slim.png" alt="Diana the Designer" style="width: 30%; float: right;" />
 
-Design is more than just making things look nicer, it's problem solving! Designers play a major role into creating the best user experience possible.
+Designers and Engineers work together to build features together. There are many
+different types of Design such as:
 
-They work with engineers and product teams to define the problem and what features and functions could help solve it.
+* Accessibility
+* Interaction Design
+* User Experience (UX)
+* User Interface (UI)
 
-There are different types of designers in tech. UX Designers focus on how a user interacts with a product and making design choices that are user-centric. UI Designers (User Interface) who focus on the "look and feel" of the website or application such as buttons, pages, anything that the user is interacting with. Product designers combine both the elements of UX and UI design, as they not only look at how the user interacts with the product, but also help determine if the problem at hand is actually being solved and how the design can be improved for scalability in the long term.
+UX Designers focus on how a user interacts with a product and make design
+choices that are user-centric. UI Designers focus on the "look and feel" of a website.
+They might choose color palettes, fonts, layouts and more.
 
-They conduct research, create the structure and visual design, wireframes and prototyping, and facilitate user testing.
-
-{% include youtube.html youtube_id="rYeAHclkyCg" %}
+In this course we will focus on UI/UX design by creating [__wireframes__][wireframe] to help
+guide [Engineers][engineer] on how to build features defined by
+[Product Managers][product].
 
 ## What is a Wireframe?
 
@@ -35,6 +41,12 @@ below.
  -------------------------------   ----------
 </pre>
 
-Wireframes help us to understand the desired workflow for new features without
-spending too much time. It allows us to try different layouts and options before
+Wireframes help [Engineers][engineer] understand the desired workflow for new
+[features][product]. It allows us to try different layouts and options before
 we start to build them.
+
+Next, learn more about the role of the [Software Engineer][engineer].
+
+[engineer]: ./software-engineer.html
+[product]: ./product-manager.html
+[wireframe]: ./designer.html#what-is-a-wireframe

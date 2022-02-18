@@ -23,7 +23,7 @@ Follow the steps below to create your first Issue.
 1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
 1. Click the "Get Started" button next to "Lesson 0x00"
 
-![Creating my first issue](../assets/images/create-first-issue.gif)
+![Creating my first issue](/assets/images/create-first-issue.gif)
 
 ## Codespaces
 
@@ -31,7 +31,7 @@ We use [Codespaces](https://github.com/codespaces) to make sure that everyone
 has access to the tools and software that they need for this course
 so that everyone can learn to code.
 
-![Code Chica Codespace](./../assets/images/chica-codespace.png)
+![Code Chica Codespace](/assets/images/chica-codespace.png)
 
 A [Codespace](https://github.com/codespaces) is a development environment
 that is created just for you. You can think of it like it is your own
@@ -43,7 +43,7 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 
 {% include youtube.html youtube_id="AC_7zcc-3ps" %}
 
-1. Open the [SparkleHub](https://github.com/codechica/SparkleHub-lite) repo in a browser.
+1. Open the [SparkleHub-lite](https://github.com/codechica/SparkleHub-lite) repo in a browser.
 1. Click on "Code"
 1. Click on "Codespaces"
 1. Click on "New codespace"

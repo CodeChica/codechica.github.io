@@ -1,4 +1,4 @@
-# The Product Manager
+# Paola - The Product Manager
 
 [Paola][product] is a Product Manager at [SparkleHub][sparklehub] who is great at interacting with
 customers, prioritizing what work needs to be done and connecting people with

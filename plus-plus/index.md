@@ -11,19 +11,19 @@ a place to sparkle others with kindness.
 
 ![Chica Coding](/assets/images/chica-coding-plus-plus-top-view.png)
 
-| When | Lesson | Guest Speaker |
+| When | Lesson | Guest |
 | :---: | :--- | :--- |
 |  Jan. 15, 2022 11:00-14:00 CT | [Introduction](./lessons/0x00/) | |
-|  Jan. 22, 2022 11:00-14:00 CT | [The Product Manager](./lessons/0x01/)   | |
-|  Jan. 29, 2022 11:00-14:00 CT | [The Designer](./lessons/0x02/)      | [Rachel Potvin](https://github.com/rachelpotvin) |
-|  Feb. 05, 2022 11:00-14:00 CT | [The Software Engineer](./lessons/0x03/) | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
+|  Jan. 22, 2022 11:00-14:00 CT | [Paola](./lessons/0x01/)   | |
+|  Jan. 29, 2022 11:00-14:00 CT | [Diana](./lessons/0x02/)      | [Rachel Potvin](https://github.com/rachelpotvin) |
+|  Feb. 05, 2022 11:00-14:00 CT | [Elena](./lessons/0x03/) | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
 |  Feb. 12, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) | Alexandra Avila |
 |  Feb. 19, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | Karen Mariela Siles |
 |  Feb. 26, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
-|  Mar. 05, 2022 11:00-14:00 CT | [Final Project work](./lessons/0x07/) | |
-|  Mar. 12, 2022 11:00-14:00 CT | [Final Project work](./lessons/0x08/) | Analicia Galindo |
-|  Mar. 26, 2022 11:00-14:00 CT | [Final Project work](./lessons/0x09/) | [Sofia Bonnet](https://github.com/sofiatwins) |
-|  Apr. 02, 2022 12:00-14:00 CT | [Final Project Presentation](./project.html) | |
+|  Mar. 05, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
+|  Mar. 12, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | Analicia Galindo |
+|  Mar. 26, 2022 11:00-14:00 CT | [Project work](./lessons/0x09/) | [Sofia Bonnet](https://github.com/sofiatwins) |
+|  Apr. 02, 2022 12:00-14:00 CT | [Project Showcase](./project.html) | |
 
 ## OKR's
 

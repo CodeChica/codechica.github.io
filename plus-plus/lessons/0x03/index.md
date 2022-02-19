@@ -1,4 +1,4 @@
-# The Software Engineer
+# Elena - The Software Engineer
 
 As an Engineer, [Elena][engineer] is constantly challenged with new problems and learning
 new things. Elena loves to code but she also likes to crunch numbers to make

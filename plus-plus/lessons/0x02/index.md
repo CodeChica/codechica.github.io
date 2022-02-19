@@ -1,4 +1,4 @@
-# The Designer
+# Diana - The Designer
 
 As a Designer, [Diana][design] gets to think creatively to come up with new
 ideas for how to improve user experience on websites. This might include

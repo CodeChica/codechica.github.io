@@ -1,16 +1,12 @@
-# Lesson 0x05
+# JavaScript
 
-## Agenda
+{% include youtube.html youtube_id="1_uRNFkFX5Q" %}
 
-1. [Ask mo Anything](#ask-mo-anything)
-1. [Guest Speaker: Sofia Muller - Data Engineer at Apple](#guest-speaker)
-1. Project Work
-1. [Heart, Fart, Shopping Cart](https://docs.google.com/document/d/1jd5v6OmrLGaD_zP73x8JZukELvd8VBgComX7BPolKIk/edit?usp=sharing)
+## Activity
 
-## Ask mo Anything
+* Read the [JavaScript][js] guide.
+* Add your response to this [discussion](https://github.com/CodeChica/plus-plus/discussions/32)
+* Complete the JavaScript [lab][lab].
 
-{% include youtube.html youtube_id="1NvZnbZHRok" %}
-
-## Guest Speaker
-
-{% include youtube.html youtube_id="wa9ZpZ3yKH0" %}
+[js]: /plus-plus/guides/javascript.html
+[lab]: https://github.com/CodeChica/plus-plus/tree/main/labs/nodejs

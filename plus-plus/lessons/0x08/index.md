@@ -1,22 +1,15 @@
-# 0x08 - Project Work
+# Project work
 
-## Agenda
+The following video is of a pretend meeting between a Customer,
+Product Manager, Designer and an Engineer to help your team come up with some ideas.
 
-1. [Announcements](#announcements)
-1. [Final Project work](../0x09/)
-1. [Jaylenne Ayala](#jaylenne-ayala)
+{% include youtube.html youtube_id="zvA68LXHDCI" %}
 
-## Announcements
+### Activity
 
-* Please complete your [pre-survey][survey].
-* Team leaders, send me your list of team members
-* Share your favorite song with [Ariane][ariane] to be added to the group Playlist.
+* Work on the [final project][project].
 
-## Jaylenne Ayala
-
-Jaylenne Ayala is a Software Engineer at EA.
-
-{% include youtube.html youtube_id="UvbAZ1JLq2g" %}
-
-[ariane]: https://codechica-plus-plus.slack.com/archives/D02EU5YP3NU
-[survey]: https://forms.gle/9qCzvmfpA2Sjes678
+[issues]: https://github.com/CodeChica/plus-plus/issues
+[pr]: /plus-plus/guides/github.html#pull-requests
+[sparklehub]: https://github.com/codechica/sparklehub-lite
+[project]: /plus-plus/project.html

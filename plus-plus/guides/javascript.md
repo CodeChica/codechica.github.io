@@ -145,6 +145,7 @@ message.
 
 Read more about [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
 
+{% include youtube.html youtube_id="7qobB9DM0Ck" %}
 
 Next, try the [JavaScript lab][lab]!
 

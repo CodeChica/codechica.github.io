@@ -1,33 +1,14 @@
-# 0x06 - User Stories Applied
+# Git
 
-<!--
-Icebreaker: Git Game? Coding Challenge?
+## Activity
 
-Outcomes:
+* Read the [terminal][terminal] guide.
+* Read the [git][git] guide.
+* Play the [Git branching game][git_game].
+* Submit a [Pull Request][pr] to [la novela][novela].
 
-In groups, gradually increase difficulty level.
-Either build onto existing features from the last class, or they can build a new
-feature but it has to be just as complex or more than their first feature.
-
-
-[slides](./slides.html)
--->
-
-
-## Agenda
-
-* [User Stories](#user-stories)
-* [JavaScript Crash Course](#just-enough-javascript)
-* [Elaine Gómez - Game Design](#elaine-gómez---game-design)
-
-## User Stories
-
-{% include youtube.html youtube_id="wzx9v4t1J8E" %}
-
-## Just Enough JavaScript
-
-{% include youtube.html youtube_id="7qobB9DM0Ck" %}
-
-## Elaine Gómez - Game Design
-
-{% include youtube.html youtube_id="KXxoAtuUv0Q" %}
+[git_game]: https://learngitbranching.js.org/
+[git]: /plus-plus/guides/git.html
+[terminal]: /plus-plus/guides/terminal.html
+[novela]: https://github.com/codechica/novela
+[pr]: /plus-plus/guides/github.html#pull-requests

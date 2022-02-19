@@ -17,10 +17,10 @@ scope of the work they create a list of tasks to accomplish.
 
 <img src="/assets/images/task-breakdown.png" alt="Task Breakdown" />
 
-Next, start working on the [Final Project][project].
+Next, start working on the [HTML][html] guide.
 
-[ada]: /plus-plus/heroes/ada-lovelace.html
 [designer]: /plus-plus/roles/designer.html
+[html]: /plus-plus/guides/html.html
 [product-manager]: /plus-plus/roles/product-manager.html
-[user-story]: /plus-plus/roles/product-manager.html#user-stories
 [project]: /plus-plus/project.html
+[user-story]: /plus-plus/roles/product-manager.html#user-stories

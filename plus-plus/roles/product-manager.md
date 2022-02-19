@@ -15,6 +15,11 @@ Product managers work closely with [designers][designer] and
 prioritizing the order that features should be built in the
 [backlog](./product-manager.html#backlog)
 
+## Software Development Lifecycle
+
+{% include youtube.html youtube_id="VSraiYX6Pl4" %}
+
+[The Software Game](/plus-plus/slides/the-software-game.html)
 
 ## Backlog
 
@@ -47,6 +52,8 @@ The user story template:
 A user story helps capture the user's voice and point of view by defining
 __who__ will benefit from the feature, __what__ they want to accomplish and
 __why__ they want to accomplish that.
+
+{% include youtube.html youtube_id="wzx9v4t1J8E" %}
 
 ### Examples
 

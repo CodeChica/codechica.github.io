@@ -13,17 +13,17 @@ a place to sparkle others with kindness.
 
 | Lesson | Title | Date | Time | Guest Speaker |
 | :---: | :---: | :---: | :---: | :---: |
-| 0x00 | [HTML, CSS and JavaScript](./lessons/0x00/) | January. 15, 2022 | 11:00-14:00 CT | |
-| 0x01 | [Source control and Git](./lessons/0x01/)   | January. 22, 2022 | 11:00-14:00 CT | |
-| 0x02 | [Tech Roles Overview](./lessons/0x02/)      | January. 29, 2022 | 11:00-14:00 CT | [Rachel Potvin](https://github.com/rachelpotvin) |
-| 0x03 | [Collaborating with others](./lessons/0x03/) | Februrary. 05, 2022 | 11:00-14:00 CT | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
-| 0x04 | [The Software Engineer's role](./lessons/0x04/) | Februrary. 12, 2022 | 11:00-14:00 CT | Alexandra Avila |
-| 0x05 | Exploring SparkleHub   | February. 19, 2022 | 11:00-14:00 CT | |
-| 0x06 | User Stories Applied | February. 26, 2022 | 11:00-14:00 CT | |
-| 0x07 | [Final Project work](./project.html) | March. 05, 2022 | 11:00-14:00 CT | |
-| 0x08 | [Final Project work](./project.html) | March. 12, 2022 | 11:00-14:00 CT | Analicia Galindo |
-| 0x09 | [Final Project work](./project.html) | March. 26, 2022 | 11:00-14:00 CT | [Sofia Bonnet](https://github.com/sofiatwins) |
-| 0x0A | [Final Project Presentation](./project.html) | April. 02, 2022 | 13:00-15:00 CT | |
+| 0x00 | [Introduction](./lessons/0x00/) | January. 15, 2022 | 11:00-14:00 CT | |
+| 0x01 | [The Product Manager](./lessons/0x01/)   | January. 22, 2022 | 11:00-14:00 CT | |
+| 0x02 | [The Designer](./lessons/0x02/)      | January. 29, 2022 | 11:00-14:00 CT | [Rachel Potvin](https://github.com/rachelpotvin) |
+| 0x03 | [The Software Engineer](./lessons/0x03/) | Februrary. 05, 2022 | 11:00-14:00 CT | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
+| 0x04 | [HTML/CSS](./lessons/0x04/) | Februrary. 12, 2022 | 11:00-14:00 CT | Alexandra Avila |
+| 0x05 | [JavaScript](./lessons/0x05/) | February. 19, 2022 | 11:00-14:00 CT | |
+| 0x06 | [Git](./lessons/0x06/) | February. 26, 2022 | 11:00-14:00 CT | |
+| 0x07 | [Final Project work](./lessons/0x07/) | March. 05, 2022 | 11:00-14:00 CT | |
+| 0x08 | [Final Project work](./lessons/0x08/) | March. 12, 2022 | 11:00-14:00 CT | Analicia Galindo |
+| 0x09 | [Final Project work](./lessons/0x09/) | March. 26, 2022 | 11:00-14:00 CT | [Sofia Bonnet](https://github.com/sofiatwins) |
+| 0x0A | [Final Project Presentation](./project.html) | April. 02, 2022 | 12:00-14:00 CT | |
 
 ## OKR's
 

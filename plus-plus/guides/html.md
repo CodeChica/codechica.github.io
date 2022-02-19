@@ -55,6 +55,12 @@ Some elements are self closing and some elements can contain other elements.
 * [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Publishing via GitHub](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website#publishing_via_github)
 
+## The Web
+
+{% include youtube.html youtube_id="Dlq7ctZadf8" %}
+
+[View slides](/plus-plus/slides/the-web.html)
+
 Next, try the [CSS][css] guide!
 
 [css]: ./css.html

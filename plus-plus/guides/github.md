@@ -25,6 +25,10 @@ Follow the steps below to create your first Issue.
 
 ![Creating my first issue](/assets/images/create-first-issue.gif)
 
+## Pull Requests
+
+{% include empty.html %}
+
 ## Codespaces
 
 We use [Codespaces](https://github.com/codespaces) to make sure that everyone

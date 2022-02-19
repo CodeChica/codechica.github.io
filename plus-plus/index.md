@@ -18,7 +18,7 @@ a place to sparkle others with kindness.
 | 0x02 | [The Designer](./lessons/0x02/)      | January. 29, 2022 | 11:00-14:00 CT | [Rachel Potvin](https://github.com/rachelpotvin) |
 | 0x03 | [The Software Engineer](./lessons/0x03/) | Februrary. 05, 2022 | 11:00-14:00 CT | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
 | 0x04 | [HTML/CSS](./lessons/0x04/) | Februrary. 12, 2022 | 11:00-14:00 CT | Alexandra Avila |
-| 0x05 | [JavaScript](./lessons/0x05/) | February. 19, 2022 | 11:00-14:00 CT | |
+| 0x05 | [JavaScript](./lessons/0x05/) | February. 19, 2022 | 11:00-14:00 CT | Karen Mariela Siles |
 | 0x06 | [Git](./lessons/0x06/) | February. 26, 2022 | 11:00-14:00 CT | |
 | 0x07 | [Final Project work](./lessons/0x07/) | March. 05, 2022 | 11:00-14:00 CT | |
 | 0x08 | [Final Project work](./lessons/0x08/) | March. 12, 2022 | 11:00-14:00 CT | Analicia Galindo |

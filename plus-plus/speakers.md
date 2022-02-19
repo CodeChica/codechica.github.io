@@ -41,6 +41,11 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 Watch all of our presentations on our [YouTube Playlist][playlist].
 
+### Alexandra Avila
+
+{% include youtube.html youtube_id="ZSNWFS9-H88" %}
+<hr />
+
 ### Rachel Potvin
 
 {% include youtube.html youtube_id="-oiku8j9v6w" %}
@@ -48,7 +53,7 @@ Watch all of our presentations on our [YouTube Playlist][playlist].
 
 ### Rosemary Sanchez
 
-{% include youtube.html youtube_id="Ex8NoZxgGPQ" %}
+{% include youtube.html youtube_id="wTMR3dOMRik" %}
 <hr />
 
 ### Jaylenne Ayala

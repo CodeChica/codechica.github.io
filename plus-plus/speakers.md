@@ -41,6 +41,11 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 Watch all of our presentations on our [YouTube Playlist][playlist].
 
+### Analicia Galindo
+
+{% include youtube.html youtube_id="7isouz1Bt7E" %}
+<hr />
+
 ### Alexandra Avila
 
 {% include youtube.html youtube_id="ZSNWFS9-H88" %}

@@ -71,7 +71,7 @@ Watch all of our presentations on our [YouTube Playlist][playlist].
 {% include youtube.html youtube_id="-TKND1hLg6w" %}
 <hr />
 
-### Sofia Bonnet Hollis
+### Sofia Bonnet
 
 {% include youtube.html youtube_id="OUZYJ0_N6Wo" %}
 <hr />

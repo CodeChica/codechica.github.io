@@ -25,22 +25,14 @@ a place to sparkle others with kindness.
 |  Mar. 05, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
 |  Mar. 12, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | Analicia Galindo |
 |  Mar. 26, 2022 11:00-14:00 CT | [Project work](./lessons/0x09/) | [Sofia Bonnet](https://github.com/sofiatwins) |
-|  Apr. 02, 2022 12:00-14:00 CT | [Project Showcase](./project.html) | |
+|  Apr. 02, 2022 12:00-14:00 CT | [Project Showcase][project] | |
 
+> _Learn about tech roles_ by presenting at the [showcase][project].
 
-## OKR's
+> _Create exitement for tech industry_ by contributing to [discussion topics](https://github.com/CodeChica/plus-plus/discussions).
 
-1. Objective: Increase awareness of tech roles
-  * Key Result: Students will present at the [project showcase][project] and talk about the role they like the best and explain why.
-1. Objective: Create exitement for tech.
-  * Key Result: 3 new responses added to each [discussion topic](https://github.com/CodeChica/plus-plus/discussions).
-1. Objective: Create a safe environment for collaboration
-  * Key Result: 1 gif posted to [Slack][slack] by 1 student each week.
+> _Collaborate with others_ by [exploring](https://github.com/CodeChica/) and making mistakes.
 
-[calendar]: https://calendar.google.com/calendar/u/0?cid=Y2xhc3Nyb29tMTA5OTkzMzI5MTI2NDM0MzIwNjMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [project]: /plus-plus/project.html
 [recordings]: https://codechica-plus-plus.slack.com/archives/C02EQF56ULW
-[registration]: https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777
-[slack]: ./guides/slack.html
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite
-[zoom]: https://zoom.us/

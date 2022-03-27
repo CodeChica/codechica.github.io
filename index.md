@@ -14,10 +14,3 @@ layout: default
     </a>
   </div>
 </div>
-
-<div class="row">
-  <div class="col-12 text-center">
-    <p>&nbsp;</p>
-    <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Register</a>
-  </div>
-</div>

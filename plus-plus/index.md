@@ -9,6 +9,8 @@ a [Designer](./roles/designer.html) and an [Engineer](./roles/software-engineer.
 You will learn how to contribute to [SparkleHub][sparklehub],
 a place to sparkle others with kindness.
 
+<a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Register</a>
+
 ![Chica Coding](/assets/images/chica-coding-plus-plus-top-view.png)
 
 | When | Lesson | Guest |
@@ -24,6 +26,7 @@ a place to sparkle others with kindness.
 |  Mar. 12, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | Analicia Galindo |
 |  Mar. 26, 2022 11:00-14:00 CT | [Project work](./lessons/0x09/) | [Sofia Bonnet](https://github.com/sofiatwins) |
 |  Apr. 02, 2022 12:00-14:00 CT | [Project Showcase](./project.html) | |
+
 
 ## OKR's
 

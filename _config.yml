@@ -1,7 +1,7 @@
 author: "@xlgmokha"
 description: "You're looking at it."
 domain: codechica.ca
-lang: 'en'
+lang: 'en-US'
 markdown: kramdown
 page_excerpts: true
 title: CodeChica
@@ -21,6 +21,5 @@ defaults:
       type: "pages"
     values:
       layout: "plus-plus"
-      title: CodeChica++
 plugins:
   - jekyll-youtube

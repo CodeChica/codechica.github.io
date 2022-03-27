@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
-    <title>CodeChica</title>
+    <title>{{ site.title }} {{ page.title }}</title>
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Referrer-Policy" content="origin">
     <meta http-equiv="X-Content-Type-Options" content="nosniff">
@@ -48,40 +48,31 @@
     <footer class="container">
       <div class="row">
         <div class="col-3">
-          <h4 class="text-center">&nbsp;</h4>
-          <img src="/assets/images/laChicaCode.png" alt="Chica waving" />
-        </div>
-        <div class="col-6">
-          <h4 class="text-center">Code Chica Guides</h4>
-          <ul class="learn-navigation">
+          <h4 class="text-center">Guides</h4>
+          <ul class="navigation">
             <li><a href="/plus-plus/guides/html.html">HTML</a></li>
             <li><a href="/plus-plus/guides/css.html">CSS</a></li>
             <li><a href="/plus-plus/guides/javascript.html">JavaScript</a></li>
-            <li><a href="/plus-plus/guides/markdown.html">Markdown</a></li>
-            <li><a href="/plus-plus/guides/terminal.html">Terminal</a></li>
-            <!-- <li><a href="/plus-plus/guides/golang.html">Go</a></li> -->
-            <!-- <li><a href="/plus-plus/guides/ruby.html">Ruby</a></li> -->
-            <li><a href="/plus-plus/guides/git.html">Git</a></li>
-            <!-- <li><a href="/plus-plus/guides/linux.html">Linux</a></li> -->
+          </ul>
+        </div>
+        <div class="col-6">
+          <h4 class="text-center">Tools</h4>
+          <ul class="navigation">
             <li><a href="/plus-plus/guides/vscode.html">VS Code</a></li>
             <li><a href="/plus-plus/guides/slack.html">Slack</a></li>
-            <li><a href="/plus-plus/guides/github.html">GitHub</a></li>
           </ul>
         </div>
         <div class="col-3">
-          <h4 class="text-center">Contribute</h4>
+          <h4 class="text-center">&nbsp;</h4>
           <ul class="navigation">
-            <li><a href="/plus-plus/speakers.html">Guest Speakers</a></li>
-            <li><a href="https://github.com/CodeChica">GitHub</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PLaZatV79bZCRtD6yCw-goNH5Keh8ovMQp" target="_blank">YouTube</a></li>
-            <li><a href="/plus-plus/books.html">Books</a></li>
+            <li><a href="/-/project.html">Final Project</a></li>
           </ul>
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <p class="text-center font-medium">
-            Need help? Ask for help in our <a href="https://github.com/CodeChica/plus-plus/discussions">discussion forum</a> or in <a href="https://codechica-plus-plus.slack.com/">Slack</a> and we’ll help you sort it out.
+            Need help? Ask for help in <a href="https://codechica-plus-plus.slack.com/">Slack</a> and we will help you sort it out.
           </p>
           <p class="text-center font-small"><a href="https://github.com/CodeChica/CodeChica/edit/main/{{ page.path }}">edit</a></p>
           <p class="text-center font-small">&copy;2021-2022 <a href="https://latinitasonline.org/" class="link">Latinitas</a>. All rights reserved.</p>

@@ -4,7 +4,7 @@ domain: codechica.ca
 lang: 'en'
 markdown: kramdown
 page_excerpts: true
-title: CodeChica++
+title: CodeChica
 url: https://codechica.ca
 defaults:
   - scope:
@@ -21,5 +21,6 @@ defaults:
       type: "pages"
     values:
       layout: "plus-plus"
+      title: CodeChica++
 plugins:
   - jekyll-youtube

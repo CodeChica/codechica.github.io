@@ -95,3 +95,68 @@
   </div>
 </div>
 <hr />
+
+## January. 15, 2022 - April. 02, 2022
+
+<div class="graduates">
+  <div class="graduate">
+    <img src="https://github.com/AlisaSalikhov.png">
+    <strong>Alisa Salikhov</strong> (<a href="https://github.com/AlisaSalikhov">@AlisaSalikhov</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/arianestier.png">
+    <strong>Ariane Stier</strong> (<a href="https://github.com/arianestier">@arianestier</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/Bethsalazar15.png">
+    <strong>Bethsaida Salazar</strong> (<a href="https://github.com/Bethsalazar15">@Bethsalazar15</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/CatVidia.png">
+    <strong>Cathy Shum</strong> (<a href="https://github.com/CatVidia">@CatVidia</a>) <br />
+    Ontario, Canada
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/Dasiam93.png">
+    <strong>Dasia Moreno</strong> (<a href="https://github.com/Dasiam93">@Dasiam93</a>) <br />
+    USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/delilah133.png">
+    <strong>Delilah Salas</strong> (<a href="https://github.com/delilah133">@delilah133</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/GabiCar2.png">
+    <strong>Gabriela Cardenas</strong> (<a href="https://github.com/GabiCar2">@GabiCar2</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/graceitiung.png">
+    <strong>Grace Itiung</strong> (<a href="https://github.com/graceitiung">@graceitiung</a>) <br />
+    Abuja, Nigeria
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/xlgmokha.png">
+    <strong>mo khan</strong> (<a href="https://github.com/xlgmokha">@xlgmokha</a>) <br />
+    Alberta, Canada
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/renitae.png">
+    <strong>Renita Edward</strong> (<a href="https://github.com/renitae">@renitae</a>) <br />
+    Texas, USA
+  </div>
+</div>
+<hr />

@@ -13,26 +13,29 @@ a place to sparkle others with kindness.
 
 ![Chica Coding](/assets/images/chica-coding-plus-plus-top-view.png)
 
-| When | Lesson | Guest |
+| When | Topic | Guest Speaker |
 | :---: | :--- | :--- |
-|  Jan. 15, 2022 11:00-14:00 CT | [Introduction](./lessons/0x00/) | |
-|  Jan. 22, 2022 11:00-14:00 CT | [Paola](./lessons/0x01/)   | |
-|  Jan. 29, 2022 11:00-14:00 CT | [Diana](./lessons/0x02/)      | [Rachel Potvin](https://github.com/rachelpotvin) |
-|  Feb. 05, 2022 11:00-14:00 CT | [Elena](./lessons/0x03/) | [Rosemary Sanchez](https://github.com/rrrosemaryyy) |
-|  Feb. 12, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) | Alexandra Avila |
-|  Feb. 19, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | Karen Mariela Siles |
-|  Feb. 26, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
-|  Mar. 05, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
-|  Mar. 12, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | Analicia Galindo |
-|  Mar. 26, 2022 11:00-14:00 CT | [Project work](./lessons/0x09/) | [Sofia Bonnet](https://github.com/sofiatwins) |
-|  Apr. 02, 2022 12:00-14:00 CT | [Project Showcase][project] | |
+| Apr. 23, 2022 11:00-14:00 CT | [Introduction](./lessons/0x00/) | [Sergio Vital][1] |
+| Apr. 30, 2022 11:00-14:00 CT | [Product Management](./lessons/0x01/) | [Monica Younger][2] |
+| May. 07, 2022 11:00-14:00 CT | [Design](./lessons/0x02/) | [Amanda Ortiz][3] |
+| May. 14, 2022 11:00-14:00 CT | [Software Engineering](./lessons/0x03/) | |
+| May. 21, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) | |
+| May. 28, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | |
+| Jun. 04, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
+| Jun. 11, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
+| Jun. 18, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | |
+| Jun. 25, 2022 12:00-14:00 CT | [Project Showcase][project] | |
 
-> _Learn about tech roles_ by presenting at the [showcase][project].
+You will:
 
-> _Create exitement for tech industry_ by contributing to [discussion topics](https://github.com/CodeChica/plus-plus/discussions).
-
-> _Collaborate with others_ by [exploring](https://github.com/CodeChica/) and making mistakes.
+* _Learn_ about roles in tech industry by **presenting** at the [showcase][project].
+* _Get excited_ about the tech industry by **contributing** to [discussion topics][0].
+* _Collaborate_ with others by **[exploring](https://github.com/CodeChica/)** and making mistakes.
 
 [project]: /plus-plus/project.html
 [recordings]: https://codechica-plus-plus.slack.com/archives/C02EQF56ULW
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite
+[0]: https://github.com/CodeChica/plus-plus/discussions
+[1]: https://www.linkedin.com/in/vitalsergio
+[2]: https://www.linkedin.com/in/monica-esparza-younger-6a9755a
+[3]: https://www.linkedin.com/in/amanda-ortiz-268022aa

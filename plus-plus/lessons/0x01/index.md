@@ -4,6 +4,8 @@
 customers, prioritizing what work needs to be done and connecting people with
 each other so that they can work together to ship great products and features.
 
+{% include youtube.html youtube_id="zvA68LXHDCI" %}
+
 ## Agenda
 
 * Explore [SparkleHub][sparklehub].

@@ -13,4 +13,4 @@ technical concerns related to new feature requests.
 * Add a task breakdown to one of the [user stories][issues] that has a wireframe.
 
 [engineer]: /plus-plus/roles/software-engineer.html
-[issues]: https://github.com/CodeChica/plus-plus/issues
+[issues]: https://github.com/CodeChica/SparkleHub-lite/issues

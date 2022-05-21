@@ -19,7 +19,7 @@ a place to sparkle others with kindness.
 | Apr. 30, 2022 11:00-14:00 CT | [Product Management](./lessons/0x01/) | [Monica Younger][2] |
 | May. 07, 2022 11:00-14:00 CT | [Design](./lessons/0x02/) | [Amanda Ortiz][3] |
 | May. 14, 2022 11:00-14:00 CT | [Software Engineering](./lessons/0x03/) | |
-| May. 21, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) | |
+| May. 21, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) | [Camilo Garcia La Rotta][4] |
 | May. 28, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | |
 | Jun. 04, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
 | Jun. 11, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
@@ -39,3 +39,4 @@ You will:
 [1]: https://www.linkedin.com/in/vitalsergio
 [2]: https://www.linkedin.com/in/monica-esparza-younger-6a9755a
 [3]: https://www.linkedin.com/in/amanda-ortiz-268022aa
+[4]: https://ca.linkedin.com/in/camilo-garcia-la-rotta

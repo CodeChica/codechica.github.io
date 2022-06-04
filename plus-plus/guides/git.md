@@ -82,7 +82,7 @@ project to.
 
 By `forking` the project, this instructs GitHub to create a copy of the entire
 project just for you. In a few moments, you should get redirected to
-https://github.com/<your-username>/novela. This is your very own copy of the
+`https://github.com/<your-username>/novela`. This is your very own copy of the
 project that you are free to edit and do whatever you want with.
 
 Let's `clone` this copy of the novela project to your computer so that you can

@@ -24,7 +24,7 @@ a place to sparkle others with kindness.
 | Jun. 04, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
 | Jun. 11, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
 | Jun. 18, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | |
-| Jun. 25, 2022 12:00-14:00 CT | [Project Showcase][project] | |
+| Jun. 25, 2022 13:00-14:00 CT | [Project Showcase][project] | |
 
 You will:
 

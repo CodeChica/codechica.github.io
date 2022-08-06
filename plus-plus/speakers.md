@@ -41,6 +41,11 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 Watch all of our presentations on our [YouTube Playlist][playlist].
 
+### Sergio Vital
+
+{% include youtube.html youtube_id="kCCYbBV2YRQ" %}
+<hr />
+
 ### Sofia Bonnet
 
 {% include youtube.html youtube_id="gNpvZR0N3Uc" %}

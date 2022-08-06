@@ -15,16 +15,16 @@ a place to sparkle others with kindness.
 
 | When | Topic | Guest Speaker |
 | :---: | :--- | :--- |
-| Apr. 23, 2022 11:00-14:00 CT | [Introduction](./lessons/0x00/) | [Sergio Vital][1] |
-| Apr. 30, 2022 11:00-14:00 CT | [Product Management](./lessons/0x01/) | [Monica Younger][2] |
-| May. 07, 2022 11:00-14:00 CT | [Design](./lessons/0x02/) | [Amanda Ortiz][3] |
-| May. 14, 2022 11:00-14:00 CT | [Software Engineering](./lessons/0x03/) | |
-| May. 21, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) | [Camilo Garcia La Rotta][4] |
-| May. 28, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | |
-| Jun. 04, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
-| Jun. 11, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
-| Jun. 18, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | |
-| Jun. 25, 2022 13:00-14:00 CT | [Project Showcase][project] | |
+| Aug. 06, 2022 11:00-14:00 CT | [Introduction](./lessons/0x00/) |  |
+| Aug. 13, 2022 11:00-14:00 CT | [Product Management](./lessons/0x01/) |  |
+| Aug. 20, 2022 11:00-14:00 CT | [Design](./lessons/0x02/) |  |
+| Aug. 27, 2022 11:00-14:00 CT | [Software Engineering](./lessons/0x03/) | |
+| Sep. 03, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) |  |
+| Sep. 10, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | |
+| Sep. 17, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
+| Sep. 24, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
+| Oct. 01, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | |
+| Oct. 08, 2022 13:00-14:00 CT | [Project Showcase][project] | |
 
 You will:
 

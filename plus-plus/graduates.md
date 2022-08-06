@@ -1,6 +1,7 @@
 # Graduates
 <hr />
 
+
 ## September. 11, 2021 - November. 20, 2021
 
 <div class="graduates">
@@ -159,4 +160,69 @@
     Texas, USA
   </div>
 </div>
+
+## April 23, 2022 - June. 25, 2022
+
+<div class="graduates">
+  <div class="graduate">
+    <img src="https://github.com/amisadaib.png">
+    <strong>Amisidai Barrera</strong> (<a href="https://github.com/amisadaib">@amisadaib</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/Ariadnaqlla.png">
+    <strong>Ariadna Quintanilla</strong> (<a href="https://github.com/Ariadnaqlla">@Ariadnaqlla</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/MRCH33SE.png">
+    <strong>Caius Fraser</strong> (<a href="https://github.com/MRCH33SE">@MRCH33SE</a>) <br />
+    Alberta, Canada
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/Dasiam93.png">
+    <strong>Dasia Moreno</strong> (<a href="https://github.com/Dasiam93">@Dasiam93</a>) <br />
+    USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/GabbyGAP.png">
+    <strong>Gabriella Pena</strong> (<a href="https://github.com/GabbyGAP">@GabbyGAP</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/IxchelO.png">
+    <strong>Ixchel Ordonez</strong> (<a href="https://github.com/IxchelO">@IxchelO</a>) <br />
+    Illinois, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/kellyndassler.png">
+    <strong>Kellyn Dassler</strong> (<a href="https://github.com/kellyndassler">@kellyndassler</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/xlgmokha.png">
+    <strong>mo khan</strong> (<a href="https://github.com/xlgmokha">@xlgmokha</a>) <br />
+    Alberta, Canada
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/NeftalynBarrera.png">
+    <strong>Neftlayn Barrera</strong> (<a href="https://github.com/NeftalynBarrera">@NeftalynBarrera</a>) <br />
+    Texas, USA
+  </div>
+
+  <div class="graduate">
+    <img src="https://github.com/code2417.png">
+    <strong>Shriya Bansal</strong> (<a href="https://github.com/code2417">@code2417</a>) <br />
+    Texas, USA
+  </div>
+</div>
+
 <hr />

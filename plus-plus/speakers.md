@@ -41,6 +41,11 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 Watch all of our presentations on our [YouTube Playlist][playlist].
 
+### Amanda Ortiz
+
+{% include youtube.html youtube_id="lSYgyfwLWuM" %}
+<hr />
+
 ### Monica Younger
 
 {% include youtube.html youtube_id="T3PF85QONgo" %}

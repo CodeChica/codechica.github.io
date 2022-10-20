@@ -13,18 +13,19 @@ a place to sparkle others with kindness.
 
 ![Chica Coding](/assets/images/chica-coding-plus-plus-top-view.png)
 
-| When | Topic | Guest Speaker |
-| :---: | :--- | :--- |
-| Aug. 06, 2022 11:00-14:00 CT | [Introduction](./lessons/0x00/) |  |
-| Aug. 13, 2022 11:00-14:00 CT | [Product Management](./lessons/0x01/) |  |
-| Aug. 20, 2022 11:00-14:00 CT | [Design](./lessons/0x02/) |  |
-| Aug. 27, 2022 11:00-14:00 CT | [Software Engineering](./lessons/0x03/) | |
-| Sep. 03, 2022 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) |  |
-| Sep. 10, 2022 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | |
-| Sep. 17, 2022 11:00-14:00 CT | [Git](./lessons/0x06/) | |
-| Sep. 24, 2022 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
-| Oct. 01, 2022 11:00-14:00 CT | [Project work](./lessons/0x08/) | |
-| Oct. 08, 2022 13:00-14:00 CT | [Project Showcase][project] | |
+| Date | Topic |
+| :---: | :--- |
+| Jan. 21, 2023 11:00-14:00 CT | [Introduction](./lessons/0x00/) |  |
+| Jan. 28, 2023 11:00-14:00 CT | [Product Management](./lessons/0x01/) |  |
+| Feb. 4, 2023 11:00-14:00 CT | [Design](./lessons/0x02/) |  |
+| Feb. 11, 2023 11:00-14:00 CT | [Software Engineering](./lessons/0x03/) | |
+| Feb. 18, 2023 11:00-14:00 CT | [HTML/CSS](./lessons/0x04/) |  |
+| Feb. 25, 2023 11:00-14:00 CT | [JavaScript](./lessons/0x05/) | |
+| March 04, 2023 11:00-14:00 CT | [Git](./lessons/0x06/) | |
+| March 11, 2023 11:00-14:00 CT | [Project work](./lessons/0x07/) | |
+| March 18, 2023 | No Class
+| March 25, 2023 11:00-14:00 CT | [Project work](./lessons/0x08/) | |
+| April 01, 2023 13:00-14:00 CT | [Project Showcase][project] | |
 
 You will:
 

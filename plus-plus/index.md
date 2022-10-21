@@ -9,7 +9,7 @@ a [Designer](./roles/designer.html) and an [Engineer](./roles/software-engineer.
 You will learn how to contribute to [SparkleHub][sparklehub],
 a place to sparkle others with kindness.
 
-<a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Register</a>
+<a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Registration opens early November 2022</a>
 
 ![Chica Coding](/assets/images/chica-coding-plus-plus-top-view.png)
 

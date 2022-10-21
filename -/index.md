@@ -6,7 +6,7 @@ science, engineering, and more!
 Since 2019, Latinitas has delivered 13 Code Chica cohorts, 8 week long sessions,
 graduating a total of 100+ students.
 
-<a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Register</a>
+<a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Registration opens early November 2022</a>
 
 ![Chica Coding](/assets/images/chica-coding-side-view.png)
 

@@ -13,7 +13,7 @@ graduating a total of 100+ students.
 Over 8 weeks, you will curate your very own customized website which you will
 feature as part of your coding portfolio. The workshop culminates in a
 graduation showcase on the last class day, where you will present your project.
-Upon completion of the program, you will receive a $75 USD stipend and a
+Upon completion of the program, you will receive a $80 USD stipend and a
 certificate outlining your accomplishments.
 
 ## 2023 Schedule

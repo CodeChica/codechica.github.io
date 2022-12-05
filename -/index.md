@@ -18,10 +18,16 @@ certificate outlining your accomplishments.
 
 ## 2023 Schedule
 
-| When | Cohort |
-| :---: | :---: |
-| January 21st - March 11th | Cohort 20 & 21 |
-| | |
+| Session | Date | Time | Description |
+| :---: | :---: | :---: | :---: |
+| 1 | January 21st | 11am - 2pm CST | |
+| 2 | January 28th | 11am - 2pm CST | |
+| 3 | February 4th | 11am - 2pm CST | Guest Speaker: Laura Davila, Software Engineer |
+| 4 | February 11th | 11am - 2pm CST | |
+| 5 | February 18th | 11am - 2pm CST | |
+| 6 | February 25th | 11am - 2pm CST | |
+| 7 | March 4th | 11am - 2pm CST | |
+| 8 | March 11th | 11am - 2pm CST | Showcase & Graduation Day! |
 
 <a href="https://www.eventbrite.com/e/441907275557" class="button primary">Register Today!</a>
 

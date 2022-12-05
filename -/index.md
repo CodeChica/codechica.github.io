@@ -23,7 +23,7 @@ certificate outlining your accomplishments.
 | January 21st - March 11th | Cohort 20 & 21 |
 | | |
 
-<a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="button primary">Registration opens early November 2022</a>
+<a href="https://www.eventbrite.com/e/441907275557" class="button primary">Register Today!</a>
 
 ## FAQ
 

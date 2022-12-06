@@ -3,7 +3,7 @@ While enrolled in Code Chica, you will be placed in a cohort of students to
 learn HTML, CSS, and Javascript essentials and explore careers in computer
 science, engineering, and more!
 
-Since 2019, Latinitas has delivered 13 Code Chica cohorts, 8 week long sessions,
+Since 2019, Latinitas has delivered 18 Code Chica cohorts, 8 week long sessions,
 graduating a total of 100+ students.
 
 <a href="https://www.eventbrite.com/e/441907275557" class="button primary">Register Today!</a>
